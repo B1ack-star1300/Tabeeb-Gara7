@@ -1,5 +1,4 @@
 # Tabeeb-Gara7
-=================
 Briefly describe what your application does here (e.g., "A desktop application that uses machine learning to analyze text and provide embeddings/classifications"). 
 
 ## 📁 Project Structure and Files
